@@ -1,0 +1,45 @@
+cat,name,emoji,portion,carbs,info
+Getränke,Apfelsaft,🧃,"200 ml",22,"Aus 90 ml = 10 g abgeleitet."
+Getränke,Orangensaft,🧃,"200 ml",18,"Aus 110 ml = 10 g abgeleitet."
+Getränke,Traubensaft,🧃,"200 ml",33,"Aus 60 ml = 10 g abgeleitet."
+Getränke,Cola,🥤,"330 ml Dose",35,"200 ml ≈ 21 g → 330 ml ≈ 35 g."
+Getränke,Milch (3,5%),🥛,"200 ml",10,"Milchzucker (Laktose)."
+Getränke,Kakao (fertig),🥛,"200 ml",18,"Zucker + Laktose."
+Getränke,Haferdrink (ungesüßt),🥛,"200 ml",13,"Aus 150 ml = 10 g abgeleitet."
+Getränke,Reisdrink (ungesüßt),🥛,"200 ml",20,"Aus 100 ml = 10 g abgeleitet."
+
+Obst,Apfel (mittel),🍎,"1 Stück (~150 g)",20,"Richtwert für Tafelapfel."
+Obst,Banane (mittel),🍌,"1 Stück (~120 g)",24,"Reifer = tendenziell mehr KH."
+Obst,Weintrauben,🍇,"1 Hand (~100 g)",16,"Süßes Obst, schnell wirksam."
+Obst,Erdbeeren,🍓,"große Hand (~150 g)",12,"Wasserreich, eher wenig KH."
+Obst,Orange (mittel),🍊,"1 Stück (~140 g essbar)",9,"Aus 150 g = 10 g abgeleitet."
+Obst,Birne (mittel),🍐,"1 Stück (~120 g essbar)",13,"Aus klein 90 g = 10 g hochskaliert."
+
+Grundnahrungsmittel,Brötchen (Weizen),🥯,"1 Stück (~50 g)",25,"Bäckereibrötchen – ohne Belag."
+Grundnahrungsmittel,Brezel,🥨,"1 Stück (~60 g)",30,"Mehlprodukt, wie Brot."
+Grundnahrungsmittel,Toast (Vollkorn),🍞,"1 Scheibe (~25 g)",10,"≈ 1 KE."
+Grundnahrungsmittel,Nudeln gekocht,🍝,"180 g",54,"Aus 150 g = 45 g skaliert."
+Grundnahrungsmittel,Reis gekocht,🍚,"150 g",41,"Parboiled als Richtwert."
+Grundnahrungsmittel,Kartoffeln gekocht,🥔,"200 g",35,"Aus 150 g = 26 g skaliert."
+Grundnahrungsmittel,Haferflocken,🥣,"30 g (~2 EL)",20,"Aus 15 g = 10 g hochskaliert."
+
+Snacks,Reiswaffeln,🍘,"3 Stück",20,"2 Stück ≈ 13 g → 3 Stück ≈ 20 g."
+Snacks,Salzstangen,🥨,"30 Stück",20,"15 Stück ≈ 10 g → 30 Stück ≈ 20 g."
+Snacks,Chips,🍟,"50 g (kleine Tüte)",20,"25 g ≈ 10 g → 50 g ≈ 20 g."
+Snacks,Kräcker,🥨,"10 Stück",20,"5 Stück ≈ 10 g → 10 Stück ≈ 20 g."
+Snacks,Müsli-Riegel,🍫,"1 Riegel",20,"Richtwert, je Marke variabel."
+
+Eis,Kugel Eis (Vanille),🍦,"1 Kugel",15,"Milchspeiseeis – Sorte abhängig."
+Eis,Fruchteis,🍧,"1 Kugel",20,"½ Kugel ≈ 10 g → 1 Kugel ≈ 20 g."
+Eis,Eis am Stiel,🍧,"1 Stück",10,"Richtwert, Größe variiert."
+
+Kuchen,Muffin (klein),🧁,"1 Stück",30,"Je Rezept stark variabel."
+Kuchen,Marmorkuchen,🍰,"1 Stück",30,"⅓ Stück ≈ 10 g → 1 Stück ≈ 30 g."
+Kuchen,Butterkuchen,🍰,"1 Stück",20,"½ Stück ≈ 10 g → 1 Stück ≈ 20 g."
+Kuchen,Käsekuchen,🍰,"1 Stück",30,"⅓ Stück ≈ 10 g → 1 Stück ≈ 30 g."
+
+Süßwaren,Gummibärchen,🐻,"20 Stück",25,"8 Stück ≈ 10 g → 20 Stück ≈ 25 g."
+Süßwaren,Smarties,🍬,"20 Stück",15,"13 Stück ≈ 10 g → 20 Stück ≈ 15 g."
+Süßwaren,Toffifee,🍬,"3 Stück",15,"2 Stück ≈ 10 g → 3 Stück ≈ 15 g."
+Süßwaren,Nimm2,🍬,"3 Stück",15,"2 Stück ≈ 10 g → 3 Stück ≈ 15 g."
+
