@@ -4,6 +4,15 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Kohlenhydrat-Quiz – Essen & Insulin</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <meta name="theme-color" content="#16a34a">
+
+  <!-- iOS “Add to Home Screen” -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Diabetes-Quiz">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+
 
   <style>
     :root{
@@ -106,6 +115,15 @@
     .hidden{display:none !important}
   </style>
 </head>
+
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("./sw.js").catch(console.warn);
+    });
+  }
+</script>
+
 
 <body>
 <header>
